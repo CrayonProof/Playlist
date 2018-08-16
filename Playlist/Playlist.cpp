@@ -1,4 +1,4 @@
-#include "stdafx.h"
+//#include "stdafx.h"
 #include "Song.h"
 #include "Playlist.h"
 #include <vector>
